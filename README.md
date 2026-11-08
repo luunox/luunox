@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hola!&height=100&section=header"/>
 </p>
 
 <h1 align="center">
-  Let's Connect and have a Chat!💬
+  Conectemos y chateemos!💬
 </h1>
 
 <p align="center">
@@ -31,7 +31,7 @@
 
 ---
 
-<h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
+<h2> 👨🏻‍💻 &nbsp;Un pequeño resumen de mi y mis intereses</h2>
 
 ```yaml
 name: Kevin Rojas
@@ -65,7 +65,7 @@ hobbies: ["Gaming", "Cinema", "Basket", "Art", "Comedy"]
 
 ---  
 
-<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+<h2> 🚀 &nbsp;Algunas herramientas que he aprendido</h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45"/>
