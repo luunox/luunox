@@ -63,7 +63,12 @@ Goals: ["Create a project for blind persons can see again."]
 hobbies: ["Gaming", "Cinema", "Basket", "Art", "Comedy"]
 ```
 
----  
+---
+
+<h2> 🚀 &nbsp;Un poco de mis estadísticas</h2>
+<img src="https://github-stats-extended.vercel.app/api?username=luunox&theme=radical" alt="stats" width="45" height="45"/>
+
+---
 
 <h2> 🚀 &nbsp;Algunas herramientas que he aprendido</h2>
 <p align="left">
