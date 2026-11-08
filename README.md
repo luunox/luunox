@@ -34,7 +34,7 @@
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
 
 ```yaml
-name: Keivn Rojas
+name: Kevin Rojas
 located_in: Lima, Perú
 current_job: Full Stack Developer
 education:
