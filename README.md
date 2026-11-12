@@ -71,8 +71,8 @@ hobbies: ["Gaming", "Cinema", "Basket", "Art", "Comedy"]
 
 <h2> 📊 &nbsp;Un poco de mis estadísticas</h2>
 <p>
-  <img align="left" src="https://github-stats-extended.vercel.app/api?username=luunox&theme=radical" alt="stats" height="200" />
-  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=luunox&theme=dark" alt="luunox" height="200" />
+  <img align="left" src="https://github-stats-extended.vercel.app/api?username=luunox&theme=radical" alt="stats" height="150" />
+  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=luunox&theme=dark" alt="luunox" height="150" />
 </p>
 <br clear="both" />
 
