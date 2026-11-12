@@ -70,10 +70,10 @@ hobbies: ["Gaming", "Cinema", "Basket", "Art", "Comedy"]
 ---
 
 <h2> 📊 &nbsp;Un poco de mis estadísticas</h2>
-<p>
+<div>
   <img align="left" src="https://github-stats-extended.vercel.app/api?username=luunox&theme=radical" alt="stats" height="170" />
   <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=luunox&theme=dark" alt="luunox" height="170" />
-</p>
+</div>
 <br clear="both" />
 
 ---
